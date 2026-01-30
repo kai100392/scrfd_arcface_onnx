@@ -1,0 +1,10 @@
+face_recognition/
+│
+├── scrfd_person_2.5g.onnx
+├── mbf.onnx
+├── known_faces/
+│     ├── john.npy
+│     ├── alice.npy
+│     ├── mark.npy
+│     └── ...
+├── face_recognition.py
